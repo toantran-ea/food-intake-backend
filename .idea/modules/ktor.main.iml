@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="ktor:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/../../src/test/kotlin;/Users/toan/Desktop/ktor/src/main/kotlin">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../build/classes/kotlin/main" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-jetty/1.3.0-beta-2/5ee365e23ef62c9a78b42db94939d726d4617d52/ktor-server-jetty-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-servlet/1.3.0-beta-2/687d2590d4691869823b7367fc77f146f5d14529/ktor-server-servlet-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-host-common/1.3.0-beta-2/47eeeb710f1834bd8dd1843988fbdbcd89f35645/ktor-server-host-common-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-html-builder/1.3.0-beta-2/af925f1c885ba20fbd358fd806d5d1fbef1402b4/ktor-html-builder-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.3.0-beta-2/8a375d03b88632481ad69b4c570201e9153e23ba/ktor-server-core-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.3.61/e91d61b7cfd9a45566b580fef18bbd5c32d505b5/kotlin-stdlib-jdk8-1.3.61.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-logging-logback/0.60.0-alpha/9854e0d8335cc4babbdd20b9ec907453682184da/google-cloud-logging-logback-0.60.0-alpha.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.appengine/appengine-api-1.0-sdk/1.9.76/d39972c245beecd3b905055c800aecd0c7f25382/appengine-api-1.0-sdk-1.9.76.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-runtime/0.13.0/4737a6b6dbb62b3d1460e083afb3099032794fe9/kotlinx-serialization-runtime-0.13.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-jvm/1.3.0-beta-2/f47ca941ef8812396548801d1803326bf99dfe93/ktor-http-cio-jvm-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-jvm/1.3.0-beta-2/ca119337a08493052943365ccddfcba9ac1b872b/ktor-http-jvm-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network/1.3.0-beta-2/62ff95d8982f2f89f956ace3caf12af64fbe4ddb/ktor-network-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-jvm/1.3.0-beta-2/db74ab0b8081bf738c05ba96408a5557cbcf7a0f/ktor-utils-jvm-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.61/70dffc5f8ac5ea7c34f30deac5b9d8b1d48af066/kotlin-stdlib-jdk7-1.3.61.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io-jvm/1.3.0-beta-2/64c1e19b05075abb13f645ca2dbd25633156ff58/ktor-io-jvm-1.3.0-beta-2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu/0.14.1/e0072a7ad62fbec16d8490fb298da7d76d0ae347/atomicfu-0.14.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-jvm/0.6.12/95dfe9d85947c8dd57c16dced385a37280166e56/kotlinx-html-jvm-0.6.12.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.60/56dc1da0b87932ae08941153c917bd19947e08bc/kotlin-reflect-1.3.60.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/4702105e97f7396ae41b113fdbdc180ec1eb1e36/kotlin-stdlib-1.3.61.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/7c4f3c474fb2c041d8028740440937705ebb473a/logback-classic-1.2.3.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.26/77100a62c2e6f04b53977b9f541044d7d722693d/slf4j-api-1.7.26.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-jdk8/1.3.2-1.3.60/2383daa22d894c0a81505629db3ee00cb94f4001/kotlinx-coroutines-jdk8-1.3.2-1.3.60.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.2-1.3.60/657012d71508f1e66e31791750758cf148d57ed/kotlinx-coroutines-core-1.3.2-1.3.60.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-logging/1.42.0/c74204b6873266d8e2b5e368019224bb20601c6b/google-cloud-logging-1.42.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-alpn-openjdk8-server/9.4.19.v20190610/4f17818ea8f9179ec37ed7497a1360f4dbd1a109/jetty-alpn-openjdk8-server-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-alpn-java-server/9.4.19.v20190610/7e7f62c2c03b74e59211eeeba0ddc067ad422ff7/jetty-alpn-java-server-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-alpn-server/9.4.19.v20190610/5dd67dacaf1eed80ab95493da840dab35c22ce9c/jetty-alpn-server-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-server/9.4.19.v20190610/672891a1abbeef85192d137192e347872a6fc9c3/http2-server-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.19.v20190610/55786f6e6649bd49425a7da1ac72cd85b8dd4bef/jetty-server-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlets/9.4.19.v20190610/b290c176abe2cd9274b9f794bf74497c4759359d/jetty-servlets-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.3.2-1.3.60/40ddbf44e6e72cab7c77f9a074b06bb0e3ea5782/kotlinx-coroutines-core-common-1.3.2-1.3.60.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/65abb71d5afb850b68be03987b08e2c864ca3110/kotlin-stdlib-common-1.3.61.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.1/2cf7a6cc79732e3bdf1647d7404279900ca63eb0/config-1.3.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/864344400c3d4d92dfeb0a305dc87d953677c03c/logback-core-1.2.3.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core-grpc/1.42.0/7f68e4609de6cf674e17392e2b060864b68f7a2c/google-cloud-core-grpc-1.42.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core/1.42.0/b812171aafe820c19b7c26ec8a453c981cbb13fa/google-cloud-core-1.42.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.api/gax-grpc/1.30.0/ada82a4a0c020807e1c1a674b18658374264e401/gax-grpc-1.30.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-logging-v2/0.25.0/a1d7d25602a939a3ff96b55b5a1033349049ac4f/proto-google-cloud-logging-v2-0.25.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty-shaded/1.13.1/ccdc4f2c2791d93164c574fbfb90d614aa0849ae/grpc-netty-shaded-1.13.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.13.1/2fc6e85e459ac522a3d81a78add8b6695f7525f1/grpc-stub-1.13.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-auth/1.13.1/96327e5774b7e0ed7f47043af9ff4fbc7f00f36/grpc-auth-1.13.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-iam-v1/0.12.0/ea312c0250a5d0a7cdd1b20bc2c3259938b79855/proto-google-iam-v1-0.12.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.13.1/832f531a79249af2d9c1d50168301ba2bc45b54b/grpc-protobuf-1.13.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/1.12.0/1140cc74df039deb044ed0e320035e674dc13062/proto-google-common-protos-1.12.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-common/9.4.19.v20190610/3b8c59c68d52a3d0de0d53f5b3588be3a5c05fb8/http2-common-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-hpack/9.4.19.v20190610/3aaf2c8c9c781f10d4d9da6120c5195b2fcb2ad9/http2-hpack-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.19.v20190610/b59ff8ecb0cf5d6234958f2404eabf0b72464e14/jetty-http-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.19.v20190610/7eb9a6be62d84e1691e5fdc99223e632485619a8/jetty-io-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.4.19.v20190610/4acddfa41f45790e43fe4be257c3c4bcf6b846ff/jetty-continuation-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.19.v20190610/2fd3cd40279280e8c56241f753d2c52d8d446d19/jetty-util-9.4.19.v20190610.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.alpn/alpn-api/1.1.3.v20160715/a1bf3a937f91b4c953acd13e8c9552347adc2198/alpn-api-1.1.3.v20160715.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.api/gax/1.30.0/58fa2feb11b092be0a6ebe705a28736f12374230/gax-1.30.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.api/api-common/1.7.0/ea59fb8b2450999345035dec8a6f472543391766/api-common-1.7.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.6.0/3680d0042d4fe0b95ada844ff24da0698a7f0773/protobuf-java-util-3.6.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-oauth2-http/0.10.0/c079a62086121973a23d90f54e2b8c13050fa39d/google-auth-library-oauth2-http-0.10.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.13.1/6ca13585100ad99e1c6140a7c8138dd96596aaf5/grpc-protobuf-lite-1.13.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.13.1/74f5300e1e4d5c2abc0e4fc927d24f4f593c5a7d/grpc-core-1.13.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.2/36d6e77a419cb455e6fd5909f6f96b168e21e9d0/joda-time-2.9.2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.24.1/396eac8d3fb1332675f82b208f48a469d64f3b4a/google-http-client-1.24.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-credentials/0.11.0/75f79364e9d4977c6462446fcccf83d2f6eeb69f/google-auth-library-credentials-0.11.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.0/5333f7e422744d76840c08a106e28e519fbe3acd/protobuf-java-3.6.0.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.13.1/e8d8407217ffe43996700f667fa1f6bee0a8c19a/grpc-context-1.13.1.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.3/3ea31c96676ff12ab56be0b1af6fff61d1a4f1f2/threetenbp-1.3.3.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.3/d1577ae15f01ef5438c5afc62162457c00a34713/httpclient-4.5.3.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.2/6dcc08f90f678ac33e5ef78c3c752b6f59e63e0c/error_prone_annotations-2.1.2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-grpc-metrics/0.12.3/a4c7ff238a91b901c8b459889b6d0d7a9d889b4d/opencensus-contrib-grpc-metrics-0.12.3.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.12.3/743f074095f29aa985517299545e72cc99c87de0/opencensus-api-0.12.3.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.6/e3fd8ced1f52c7574af952e2e6da0df8df08eb82/httpcore-4.4.6.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar:/Users/toan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="ktor" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.61/e5feb39c8de63dcbdc1154b34ca4413874231605/kotlin-script-runtime-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.3.61/169747d90a1ccdd30b25c381a06bee3fe579bf2/kotlin-scripting-common-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.3.61/b9311f022363534f8776e4392aa9c4f4d5a62a44/kotlin-scripting-jvm-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/65abb71d5afb850b68be03987b08e2c864ca3110/kotlin-stdlib-common-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/4702105e97f7396ae41b113fdbdc180ec1eb1e36/kotlin-stdlib-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.2.1/3839faf625f4197acaeceeb6da000f011a2acb49/kotlinx-coroutines-core-1.2.1.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+              <option value="$KOTLIN_BUNDLED$/lib/kotlinx-serialization-compiler-plugin.jar" />
+            </array>
+          </option>
+          <option name="coroutinesState" value="enable" />
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-jetty:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-servlet:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-host-common:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-html-builder:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-core:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.61" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.cloud:google-cloud-logging-logback:0.60.0-alpha" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.appengine:appengine-api-1.0-sdk:1.9.76" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-runtime:0.13.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-cio-jvm:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-jvm:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-network:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-utils-jvm:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.61" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-io-jvm:1.3.0-beta-2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:atomicfu:0.14.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-html-jvm:0.6.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.3.60" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.61" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.26" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.3.2-1.3.60" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.2-1.3.60" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.cloud:google-cloud-logging:1.42.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-alpn-openjdk8-server:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-alpn-java-server:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-alpn-server:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.http2:http2-server:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-server:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-servlets:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-common:1.3.2-1.3.60" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.61" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.typesafe:config:1.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.cloud:google-cloud-core-grpc:1.42.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.cloud:google-cloud-core:1.42.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.api:gax-grpc:1.30.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.api.grpc:proto-google-cloud-logging-v2:0.25.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.grpc:grpc-netty-shaded:1.13.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.grpc:grpc-stub:1.13.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.grpc:grpc-auth:1.13.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.api.grpc:proto-google-iam-v1:0.12.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.grpc:grpc-protobuf:1.13.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.api.grpc:proto-google-common-protos:1.12.0" level="project" />
+    <orderEntry type="library" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.http2:http2-common:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.http2:http2-hpack:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-http:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-io:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-continuation:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-util:9.4.19.v20190610" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.alpn:alpn-api:1.1.3.v20160715" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.api:gax:1.30.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.api:api-common:1.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.protobuf:protobuf-java-util:3.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.auth:google-auth-library-oauth2-http:0.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.grpc:grpc-protobuf-lite:1.13.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.grpc:grpc-core:1.13.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:20.0" level="project" />
+    <orderEntry type="library" name="Gradle: joda-time:joda-time:2.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.http-client:google-http-client-jackson2:1.19.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.http-client:google-http-client:1.24.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.auth:google-auth-library-credentials:0.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.protobuf:protobuf-java:3.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.grpc:grpc-context:1.13.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.threeten:threetenbp:1.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.errorprone:error_prone_annotations:2.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: io.opencensus:opencensus-contrib-grpc-metrics:0.12.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.opencensus:opencensus-api:0.12.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.9" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.1.3" level="project" />
+  </component>
+</module>

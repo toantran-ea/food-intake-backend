@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.cloud:google-cloud-logging-logback:0.60.0-alpha">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-logging-logback/0.60.0-alpha/9854e0d8335cc4babbdd20b9ec907453682184da/google-cloud-logging-logback-0.60.0-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-logging-logback/0.60.0-alpha/6009011b0885fa3ae221acaaa6ebaf02b6271974/google-cloud-logging-logback-0.60.0-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
