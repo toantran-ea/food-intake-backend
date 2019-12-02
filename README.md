@@ -8,4 +8,4 @@ To start using the sample, you can follow the the detail steps describe in this 
 
 [tutorial]: https://cloud.google.com/community/tutorials/kotlin-ktor-app-engine-java8
 
-[blog]: [https://medium.com/@toantran/bring-kotlin-to-cloud-a-hobby-project-to-explore-the-possibility-part-2-7e96abc6d75f]
+[blog]: https://medium.com/@toantran/bring-kotlin-to-cloud-a-hobby-project-to-explore-the-possibility-part-2-7e96abc6d75f
